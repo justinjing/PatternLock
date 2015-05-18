@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>41DB9D15-F4F4-4E4A-921A-EB467F8E548C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>PatternLock</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>71B5CEDE0B04A5A53D00F19BD5D2EC53B1BAB1AF</key>
+		<string>https://github.com/justinjing/PatternLock.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>PatternLock.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>71B5CEDE0B04A5A53D00F19BD5D2EC53B1BAB1AF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/justinjing/PatternLock.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>71B5CEDE0B04A5A53D00F19BD5D2EC53B1BAB1AF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>71B5CEDE0B04A5A53D00F19BD5D2EC53B1BAB1AF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>PatternLock</string>
+		</dict>
+	</array>
+</dict>
+</plist>
